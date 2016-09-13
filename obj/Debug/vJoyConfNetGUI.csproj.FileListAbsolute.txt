@@ -1,0 +1,12 @@
+C:\Users\User1\Desktop\vJoyConfNet-master\bin\Debug\Presets\Info.xml
+C:\Users\User1\Desktop\vJoyConfNet-master\bin\Debug\Presets\Xbox.xml
+C:\Users\User1\Desktop\vJoyConfNet-master\bin\Debug\vJoyConfNetGUI.exe
+C:\Users\User1\Desktop\vJoyConfNet-master\bin\Debug\vJoyConfNetGUI.pdb
+C:\Users\User1\Desktop\vJoyConfNet-master\bin\Debug\vJoyConfNet.dll
+C:\Users\User1\Desktop\vJoyConfNet-master\bin\Debug\vJoyConfNet.pdb
+C:\Users\User1\Desktop\vJoyConfNet-master\obj\Debug\vJoyConfNetGUI.csprojResolveAssemblyReference.cache
+C:\Users\User1\Desktop\vJoyConfNet-master\obj\Debug\vJoyConfNet.MainForm.resources
+C:\Users\User1\Desktop\vJoyConfNet-master\obj\Debug\vJoyConfNet.Properties.Resources.resources
+C:\Users\User1\Desktop\vJoyConfNet-master\obj\Debug\vJoyConfNetGUI.csproj.GenerateResource.Cache
+C:\Users\User1\Desktop\vJoyConfNet-master\obj\Debug\vJoyConfNetGUI.exe
+C:\Users\User1\Desktop\vJoyConfNet-master\obj\Debug\vJoyConfNetGUI.pdb
